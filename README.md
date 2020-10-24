@@ -1,1 +1,6 @@
 # ETL-operation-using-feature-rich-mature-solution
+Extract, transform, and Load (ETL) operations form the backbone of data warehouse management. One of the challenges in managing the enterprise systems is on how to proceed with extraction of large amount of data, perform data transformations, and load back the transformed data in the system. Although, sophisticated tools exist in the market that provide feature rich service but they come at a premium price. 
+Therefore, it is inevitable to develop an in-house UI based mature and feature rich ETL interface that not only saves manual efforts and errors but also helps to attain equilibrium in the cost benefit analysis for company at an enterprise level. 
+
+In line with modernizing data management operations, developed a stateless, easily interfaceable, and optimized software solution to connect to Database servers on the cloud for automatic extraction of data in the interface. Further, performing data transformations on the extracted data, and loading it back to the servers on the cloud. 
+The software can be used by the user without having any prior knowledge of programming. It is automated thus reducing chances of manual error, and can be scaled in conjunction with the size of the database. 
